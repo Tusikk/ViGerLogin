@@ -217,6 +217,7 @@ button {
 
 }
 
+
 .enter {
   display: flex;
   justify-content: center;
@@ -237,6 +238,10 @@ button {
 
 .enter:active {
   background-color: #67C4F8;
+}
+
+.login-right {
+  background-color: #f1f1f1;
 }
 
 
